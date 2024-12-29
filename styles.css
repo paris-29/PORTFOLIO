@@ -10,7 +10,10 @@ body {
     color: #00ff00;
     line-height: 1.5;
 }
-
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
 .container {
     max-width: 800px;
     margin: 0 auto;
